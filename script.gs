@@ -1,3 +1,4 @@
+// enlace https://script.google.com/u/1/home
 function enviarCorreoDesdeCalendario() {
   var calendarId = 'resguardacij@gmail.com'; // Reemplaza con tu ID de calendario
 
